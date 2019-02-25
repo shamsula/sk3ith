@@ -1,2 +1,2 @@
 # sk3ith
-Sup? 
+Hello everyone! Welcome to my Github repository!
